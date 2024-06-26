@@ -44,3 +44,6 @@ Finally, run the server by using:
 ```
 python manage.py runserver
 ```
+
+Now, to play with these APIs follow the link below.
+- https://docs.google.com/document/d/1aoN-ar2vsoaM0u-aIYEhzw1GPOd_Wy1mfeBWWDzoccA/edit?usp=sharing
