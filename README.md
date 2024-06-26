@@ -7,6 +7,7 @@ Now, clone the repository by using:
 git clone https://github.com/salmanfarshy/Project.git
 ```
 
+
 Then, create an env file and active the file by using:
 ```
 python -m venv env
