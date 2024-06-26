@@ -29,9 +29,7 @@ Now, install some libraries by using:
 pip install django djangorestframework djangorestframework-simplejwt
 ```
 <br>
-
 ### Spet 2:
-
 Now, relocate to the `Project` folder by using:
 ```
 cd Project
