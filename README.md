@@ -11,8 +11,6 @@ Then, create an env file by using:
 ```
 python -m venv env
 ```
-
-
 And active the file by using
 For Windows
 ```
@@ -25,4 +23,20 @@ source env/bin/activate
 or
 ```
 source env\bin\activate
+```
+Now, install some libraries by using:
+```
+pip install django djangorestframework djangorestframework-simplejwt
+```
+Now, relocate to the Project folder by using:
+```
+cd Project
+```
+Now, migrate the database by using:
+```
+python manage.py migrate
+```
+Finally, run the server by using:
+```
+python manage.py runserver
 ```
