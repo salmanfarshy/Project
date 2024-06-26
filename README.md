@@ -12,6 +12,7 @@ Then, create an env file by using:
 python -m venv env
 ```
 
+
 And active the file by using
 For Windows
 ```
