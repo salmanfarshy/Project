@@ -1,13 +1,14 @@
 ## Project_Management_Api
 
 First, create a folder on your computer. Then open a terminal to that folder.
-
+<br>
+### Spet 1:
 Now, clone the repository by using:
 ```
 git clone https://github.com/salmanfarshy/Project.git
 ```
 
-Then, create an env file by using:
+Then, create an `env` file by using:
 ```
 python -m venv env
 ```
@@ -28,7 +29,7 @@ Now, install some libraries by using:
 ```
 pip install django djangorestframework djangorestframework-simplejwt
 ```
-Now, relocate to the Project folder by using:
+Now, relocate to the `Project` folder by using:
 ```
 cd Project
 ```
