@@ -7,7 +7,6 @@ Now, clone the repository by using:
 ```
 git clone https://github.com/salmanfarshy/Project.git
 ```
-
 Then, create an `env` file by using:
 ```
 python -m venv env
@@ -29,6 +28,10 @@ Now, install some libraries by using:
 ```
 pip install django djangorestframework djangorestframework-simplejwt
 ```
+<br>
+<br>
+
+### Spet 2:
 Now, relocate to the `Project` folder by using:
 ```
 cd Project
